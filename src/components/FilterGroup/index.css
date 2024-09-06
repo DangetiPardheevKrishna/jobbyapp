@@ -1,0 +1,66 @@
+.checkbox-input {
+  display: flex;
+  align-items: center;
+
+  margin: 8px 0px;
+}
+.employment-input {
+  margin: 0px;
+  margin-right: 24px;
+}
+.employment-label {
+  margin: 0px;
+  font-size: 13px;
+  font-family: roboto;
+  color: white;
+  text-align: left;
+}
+.filter-heading {
+  font-family: roboto;
+  font-size: 23px;
+  margin: 10px 0px;
+  color: white;
+  font-weight: 500;
+}
+.checkbox-list {
+  margin: 0px;
+  margin-bottom: 12px;
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+.employment-list-container {
+  margin: 24px 0px;
+}
+.range-list-container {
+  margin: 24px 0px;
+}
+.range-list {
+  margin: 0px;
+  margin-bottom: 12px;
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+.radio-input {
+  display: flex;
+  align-items: center;
+  margin: 8px 0px;
+  padding: 0px;
+}
+.range-input {
+  margin: 0px;
+  margin-right: 24px;
+}
+.range-label {
+  margin: 0px;
+  padding: 0px;
+  font-size: 13px;
+  font-family: roboto;
+  color: white;
+  text-align: left;
+}
